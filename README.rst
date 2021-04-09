@@ -30,6 +30,9 @@ Community plugins
    * - Plugin name
      - Description
      - Comments
+   * - `DIF3D ARMI plugin <https://github.com/terrapower/armicontrib-dif3d>`_
+     - Write inputs for ANL's DIF3D neutronics code, run the code, read output (power, flux, keff, etc.) back onto ARMI state 
+     - Interfaces mostly through CCCC binary interface files. Fairly limited in geometry options at the moment. 
    * - Your Plugin here
      - Description
      - Comments
